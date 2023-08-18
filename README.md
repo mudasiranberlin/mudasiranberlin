@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Jean-Michel</h1>
-<h3 align="center">Lazyness, Impatience & Hubris.</h3>
+<h1 align="center">Hi 👋, I'm Mudasir Ahmad </h1>
+<h3 align="center"> Creative ,Lazyness, Impatience & Hubris.</h3>
 
 <p align="left"><img src="https://skillicons.dev/icons?i=kotlin,ktor,graphql,heroku,idea,spring,postgres,git,github,bash,docker,ts,android&perline=16" alt="Tech Stack" /> </p>
 
@@ -8,9 +8,9 @@
 
 - 📝 I regulary not only code, but tons of words, on [**https://dev.to/jmfayard/**](https://dev.to/jmfayard/)
 
-- 📫 You can reach me at [jmfayard@gmail.com](https://jmfayard.dev/contact/)
+- 📫 You can reach me at [mudasirahmad32@gmail.com](https://http://mudasiraziz.blogspot.in/)
 
-- ⚡️ I work mainly [for Tignum](https://github.com/TIGNUM) and on [**refreshVersions**](https://github.com/jmfayard/refreshVersions)
+- ⚡️ I work mainly [for Tignum](https://github.com/mudasiranberlin) and on [**refreshVersions**](https://github.com/mudasiranberlin)
 
 - ❤️ My other pet projects are [kotlin-playground](https://github.com/jmfayard/kotlin-playground) - [github-actions-kotlin-dsl](https://github.com/krzema12/github-actions-kotlin-dsl) - [kotlin-cli-starter](https://github.com/jmfayard/kotlin-cli-starter) - [kotlin-libraries-playground](https://github.com/LouisCAD/kotlin-libraries-playground)
 
